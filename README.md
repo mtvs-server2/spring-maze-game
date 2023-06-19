@@ -16,11 +16,16 @@
 
 ## 팀원 소개
 
-- [이현석](https://github.com/bbbbooo)   
-- [라현지](https://github.com/raxchaz)   
-- [손정인](https://github.com/Dylan-SonJungin)   
-- [이효진](https://github.com/hodin030)   
-- [강수의](https://github.com/numerical43)
+<div align=center> 
+
+|                                                                백엔드                                                                 |백엔드|백엔드|백엔드|                                                                 백엔드                                                                 |
+|:----------------------------------------------------------------------------------------------------------------------------------:|:-:|:-:|:-:|:-----------------------------------------------------------------------------------------------------------------------------------:|
+| <img src="https://github.com/mtvs-server2/spring-meow-life-game/assets/105257665/2bc7a336-6790-46d9-b06c-f8d29640ec2a" width="150"> |<img src="https://github.com/mtvs-server2/spring-meow-life-game/assets/105257665/408f3cc6-f128-4df2-b3a8-b08a6c705323" width="150">|<img src="https://github.com/mtvs-server2/spring-meow-life-game/assets/105257665/2706e674-a3c5-4753-9853-2d685fdab53c" width="150">|<img src="https://github.com/mtvs-server2/spring-meow-life-game/assets/105257665/dc42e114-120d-4e80-897a-890936f7bf56" width="150">| <img src="https://github.com/mtvs-server2/spring-meow-life-game/assets/105257665/928e048d-a15a-4ba3-942c-6d5caa4f7f4b" width="150"> |
+|                                                 [이현석](https://github.com/bbbbooo)                                                  |[라현지](https://github.com/raxchaz)|[손정인](https://github.com/Dylan-SonJungin)  |[이효진](https://github.com/hodin030) |                                                [강수의](https://github.com/numerical43)                                                |
+
+</div>
+
+<br>
 
 
 ---
