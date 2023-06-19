@@ -14,6 +14,17 @@
 
 ---
 
+## 팀원 소개
+
+- [이현석](https://github.com/bbbbooo)   
+- [라현지](https://github.com/raxchaz)   
+- [손정인](https://github.com/Dylan-SonJungin)   
+- [이효진](https://github.com/hodin030)   
+- [강수의](https://github.com/numerical43)
+
+
+---
+
 ## 요구사항
 - 기능별로 각각의 상황을 테스트하는 코드를 구현한다.
 - MVC 패턴을 활용하여 코드를 간소화한다.
